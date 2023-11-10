@@ -16,5 +16,5 @@ Some antivirus programs may ask to delete start.bat file, so just don't let 'em.
 Project is clean, scan it on VirusTotal or check the files' content yourself if u want.<br>
 <br>
 
-The original project belongs to Samperson [(@SamNChiet on Twitter)](https://twitter.com/SamNChiet/status/1579906881887211520), I just made a standalone version including all the missing files that needed to be added manually, plus building an easier way to start and stop the game, and a guide to clarify some important concepts.
+The [original project](https://twitter.com/SamNChiet/status/1579906881887211520) belongs to Samperson (@SamNChiet on Twitter), I just made a standalone version including all the missing files that needed to be added manually, plus building an easier way to start and stop the game, and a guide to clarify some important concepts.
 
