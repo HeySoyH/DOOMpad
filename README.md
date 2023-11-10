@@ -3,7 +3,7 @@
 ---
 Brief instructions:  <br>
 
-Download then unzip wherever.  <br>
+Download the project then unzip wherever.  <br>
 Run "start.bat" to begin playing.  <br>
 Run "stop.bat" when finish playing (closing the windows manually will not end background processes).  <br>
 
