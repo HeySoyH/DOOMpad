@@ -1,7 +1,7 @@
 # DOOMpad
 "Yeah sure, notepad is cool and allat, but can it run Doom?" -> YES.
 ---
-Brief instructions:
+Brief instructions:<br>
 <br>
 Download then unzip wherever.<br>
 Run "start.bat" to begin playing.<br>
