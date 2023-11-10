@@ -13,6 +13,6 @@ Also, it crashes sometimes on start, in case that happens, just restart the game
 
 Do not rename, move, modify or delete any file or folder without knowing.  <br>
 Some antivirus programs may ask to delete start.bat file, so just don't let 'em.  <br>
-Project is clean, scan it on VirusTotal or check the files' content yourself if u want.  <br>
+Project is clean, although [VirusTotal](https://www.virustotal.com/gui/file/78e0450d61a53224e32f3bab01a7a55bed66f20f24ea1b1c1c2ec5f783141d63/detection) thinks the opposite, check the files' content yourself if u want.  <br>
 
 The [original project](https://twitter.com/SamNChiet/status/1579906881887211520) belongs to Samperson (@SamNChiet on Twitter), I just made a standalone version including all the missing files that needed to be added manually, plus building an easier way to start and stop the game, and a guide to clarify some important concepts.  <br>
