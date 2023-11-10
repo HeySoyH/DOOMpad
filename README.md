@@ -1,5 +1,5 @@
 # DOOMpad
-"Yeah sure, notepad is cool and allat, but can it run Doom?" -> YES.
+"Yeah sure, notepad is cool and allat, but can it run Doom?" YES.
 ---
 Brief instructions:  <br>
 
