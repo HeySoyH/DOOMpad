@@ -10,6 +10,7 @@ Run "stop.bat" when finish playing (closing the windows manually will not end ba
 Works on Windows 10.  <br>
 Don't click the notepad window, or keep the small doom window in foreground, otherwise controls won't work.  <br>
 Also, it crashes sometimes on start, in case that happens, just restart the game and try again.  <br>
+It quite flashes, so do not play if you have epilepsy.  <br>
 
 Do not rename, move, modify or delete any file or folder without knowing.  <br>
 Some antivirus programs may ask to delete start.bat file, so just don't let 'em.  <br>
